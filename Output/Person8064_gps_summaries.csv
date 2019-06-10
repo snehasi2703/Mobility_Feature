@@ -1,0 +1,9 @@
+"","Hometime","DistTravelled","RoG","MaxDiam","MaxHomeDist","SigLocsVisited","AvgFlightLen","StdFlightLen","AvgFlightDur","StdFlightDur","ProbPause","SigLocEntropy","MinsMissing","CircdnRtn","WkEndDayRtn","local_date","utc_timecode","days_from_start","person_id","Hometime_hrs","DistTravelled_km","MaxDiam_km","MaxHomeDist_km","AvgFlightLen_km","StdFlightLen_km","AvgFlightDur_min","StdFlightDur_min","RoG_km"
+"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1440,NA,NA,"2017-07-21",1500609600000,0,"Person8064",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1440,NA,NA,"2017-07-22",1.500696e+12,1,"Person8064",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1440,NA,NA,"2017-07-23",1500782400000,2,"Person8064",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1440,NA,NA,"2017-07-24",1500868800000,3,"Person8064",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1440,NA,NA,"2017-07-25",1500955200000,4,"Person8064",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1440,NA,NA,"2017-07-26",1501041600000,5,"Person8064",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1440,NA,NA,"2017-07-27",1.501128e+12,6,"Person8064",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1440,NA,NA,"2017-07-28",1501214400000,7,"Person8064",NA,NA,NA,NA,NA,NA,NA,NA,NA
